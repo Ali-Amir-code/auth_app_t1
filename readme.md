@@ -1,18 +1,29 @@
-# auth-app
+# Auth App T1
 
-A simple user authentication system built with Node.js, Express, MongoDB, and EJS.
+## Tech Stack Used
 
-## Features
+- **JavaScript**
+- **EJS (Embedded JavaScript Templates)**
 
-- User Registration
-- User Login & Logout
-- Password hashing with bcrypt
-- Session management with express-session & MongoDB store
+## Setup & Run Instructions
 
-## Setup Instructions
+Please refer to the project files for specific setup scripts and configuration. Typically, for a JavaScript/EJS project, you would:
 
-1. Clone the repo:
+1. Clone the repository:
    ```bash
-   git clone https://github.com/ali-amir-code/auth-app.git
-   cd auth-app
+   git clone https://github.com/Ali-Amir-code/auth_app_t1.git
+   cd auth_app_t1
    ```
+2. Install dependencies:
+   ```bash
+   npm install
+   ```
+3. Start the application:
+   ```bash
+   npm start
+   ```
+4. Access the app in your browser at `http://localhost:3000` (or the configured port).
+
+## Screenshots or Short Demo
+
+To Be Added
