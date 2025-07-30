@@ -25,5 +25,11 @@ Please refer to the project files for specific setup scripts and configuration. 
 4. Access the app in your browser at `http://localhost:3000` (or the configured port).
 
 ## Screenshots or Short Demo
-
-To Be Added
+### Demo
+![Demo](./auth_app-rec.gif)
+### Register Page
+![Register Page](./register.png)
+### Login Page
+![Login Page](./login.png)
+### Dashboard Page
+![DashBoard Page](./dashboard.png)
