@@ -1,4 +1,4 @@
-# Auth App T1
+# Auth App T1 (Internship Task 1)
 
 ## Tech Stack Used
 
